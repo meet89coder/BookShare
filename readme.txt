@@ -2,7 +2,7 @@ Please follow the steps:
 1.Install the xampp software in your computer and start the Apache and Mysql.
 2.Download the uploaded zip file.
 3.Extract the zip file to htdocs folder of xampp in C-drive or wherever you have installed the xampp.
-4.Open phpmyadmin in local web browser and create a databade named'books-portal'.
+4.Open phpmyadmin in local web browser and create a database named'books-portal'.
 5.Import book-portal.sql file to the database.
 6.Now write 'localhost/BookShare' in your web browser and not Google Search engine.
 7.The webiste will appear to you.
